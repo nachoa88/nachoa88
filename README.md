@@ -8,11 +8,14 @@
 ### 💾 I’m currently working on:
 Pokedex with Poke-API.
 > [!WARNING]
-> I'll add some more information soon.  
+> The project is still in development, I will post news soon.  
 
 ### 🎯 My projects:
+- [My Portfolio](https://ignacioalbiol.tech/)
+- [K0N3CT4 - Front](https://github.com/nachoa88/KoNeCTaReact) & [K0N3CT4 - Back](https://github.com/nachoa88/KoNeCTaSpringBoot)
+    
 > [!WARNING]
-> I'll post here all my projects soon.  
+> I'll post here the rest of my projects soon.
 
 ### 💻: Some of my skills:
 - Languages  
