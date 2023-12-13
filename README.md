@@ -1,15 +1,16 @@
 ## Hi there, I'm Nacho 👋
 
-### :bowtie: About me :
+### 🤓 About me :
 > [!NOTE]
+> I'm a game & web developer and I live in Barcelona. Over the past few years, I have undergone a professional transition, moving from the educational sector to the world of programming and development. I started my journey by learning Unity and C# on my own, and later, I consolidated my skills with an integral full-stack web development course.  
 > If you want to know more about me, here's my [Portfolio](https://ignacioalbiol.tech/).  
 
-### :floppy_disk: I’m currently working on:
-My porfolio.
+### 💾 I’m currently working on:
+Pokedex with Poke-API.
 > [!WARNING]
-> I'll add more information soon.  
+> I'll add some more information soon.  
 
-### :dart: My projects:
+### 🎯 My projects:
 > [!WARNING]
 > I'll post here all my projects soon.  
 
