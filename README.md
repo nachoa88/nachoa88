@@ -8,10 +8,11 @@
 ### 💾 I’m currently working on:
 Pokedex with Poke-API.
 > [!WARNING]
-> The project is still in development, I will post news soon.  
+> The project is still in development, but there is a stable version online with some of the features, [check it!](https://pokedex-iap.netlify.app/).  
 
 ### 🎯 My projects:
 - [My Portfolio](https://ignacioalbiol.tech/)
+- [Pokédex - PokéAPI](https://pokedex-iap.netlify.app/)
 - [K0N3CT4 - Front](https://github.com/nachoa88/KoNeCTaReact) & [K0N3CT4 - Back](https://github.com/nachoa88/KoNeCTaSpringBoot)
     
 > [!WARNING]
