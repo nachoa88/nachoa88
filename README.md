@@ -5,19 +5,19 @@
 > I am a passionate developer who has successfully transitioned from the education sector, bringing valuable skills to the web development world. For several years, I worked in the education sector as a primary school teacher and tutor, which allowed me to develop interpersonal skills, patience, and a great capacity for adaptation. This background in education has not only strengthened my ability to work in a team but also taught me the importance of organization and methodology in project management.  
 > My journey in development began as a self-learner, studying Unity and C#, and I later consolidated my knowledge with comprehensive training in full stack web application development. Recently, I completed a PHP Full Stack bootcamp at the IT Academy of Barcelona Activa, where I continued to expand my skills and knowledge. 
   
-> If you want to know more about me, here's my [Portfolio](https://ignacioalbiol.tech/).  
+> If you want to know more about me, here's my [Portfolio](https://ignacioalbiol.es/).  
 
 ### 💾 I’m currently working on:
 Ultimate League - PHP Laravel project, MVC architecture.
 > [!WARNING]
 > Ultimate League is a league manager where you can create, edit, view, and delete leagues, teams, and games. Right now, you need to register to access the creation, editing and deletion functions, but you can try it out and then delete your user without any problem.  
 > Regarding technologies, I have used Laravel with the Breeze package, MySQL for the database, and Tailwind along with Blade for the front end.  
-> The project is still in development, but there is a stable version online with some of the features, [check it!](https://ultimateleague.ignacioalbiol.tech/).  
+> The project is still in development, but there is a stable version online with some of the features, [check it!](https://ultimateleague.ignacioalbiol.es/).  
 
 ### 🎯 My projects:
-- [Ultimate Leage](https://ultimateleague.ignacioalbiol.tech/)
-- [Blackjack API](https://blackjack-api.ignacioalbiol.tech/api/documentation)
-- [Pokédex - PokéAPI](https://pokedex-iap.netlify.app/)
+- [Ultimate Leage](https://ultimateleague.ignacioalbiol.es/)
+- [Blackjack API](https://blackjack-api.ignacioalbiol.es/api/documentation)
+- [Pokédex - PokéAPI](https://pokedex.ignacioalbiol.es/)
 - [K0N3CT4 - Front](https://github.com/nachoa88/KoNeCTaReact) & [K0N3CT4 - Back](https://github.com/nachoa88/KoNeCTaSpringBoot)
 
 ### 💻 Some of my skills:
