@@ -2,19 +2,20 @@
 
 ### 🤓 About me :
 > [!NOTE]
-> I am a passionate developer who has successfully transitioned from the education sector, bringing valuable skills to the web development world. For several years, I worked in the education sector as a primary school teacher and tutor, which allowed me to develop interpersonal skills, patience, and a great capacity for adaptation. This background in education has not only strengthened my ability to work in a team but also taught me the importance of organization and methodology in project management.  
-> My journey in development began as a self-learner, studying Unity and C#, and I later consolidated my knowledge with comprehensive training in full stack web application development. Recently, I completed a PHP Full Stack bootcamp at the IT Academy of Barcelona Activa, where I continued to expand my skills and knowledge. 
+> I'm a full stack developer who successfully transitioned from the education sector to web development. My experience as a teacher taught me the importance of organization, teamwork, and problem-solving—skills I now bring to every line of code I write.
+> I have worked with technologies like C#, JavaScript, React, and Java, and I recently completed a PHP Full Stack bootcamp, where I learned to build full applications using tools such as Laravel, Tailwind, and Docker. What I enjoy the most is solving complex problems and creating applications that deliver real value.
+> When I’m not coding, I’m learning something new or refining my personal projects. I’m looking for opportunities to contribute to meaningful projects and continue growing as a professional.
   
 > If you want to know more about me, here's my [Portfolio](https://ignacioalbiol.es/).  
 
 ### 💾 I’m currently working on:
-Ultimate League - PHP Laravel project, MVC architecture.
-> [!WARNING]
-> Ultimate League is a league manager where you can create, edit, view, and delete leagues, teams, and games. Right now, you need to register to access the creation, editing and deletion functions, but you can try it out and then delete your user without any problem.  
-> Regarding technologies, I have used Laravel with the Breeze package, MySQL for the database, and Tailwind along with Blade for the front end.  
-> The project is still in development, but there is a stable version online with some of the features, [check it!](https://ultimateleague.ignacioalbiol.es/).  
+Blackjack - API: PHP Laravel project & Front: Vue 3.
+> A RESTful API based on the classic card game. It allows users to register, log in, update their nickname, delete their account, view a list of users, play games, and view global and personal rankings. Developed in PHP-Laravel and MySQL, it uses Passport for authentication and Spatie for role and permission management. Documentation was created using Swagger.
+> Currently I'm working on improving the gameplay, adding some features for the API and developing the front end that consumes that API.
+> [!WARNING] The project is still in development, I'll soon update the link with front end, for now you can check the API [check it!](https://blackjack-api.ignacioalbiol.es/api/documentation).  
 
 ### 🎯 My projects:
+- [EcoTrail](https://ecotrail.ignacioalbiol.es/)
 - [Ultimate Leage](https://ultimateleague.ignacioalbiol.es/)
 - [Blackjack API](https://blackjack-api.ignacioalbiol.es/api/documentation)
 - [Pokédex - PokéAPI](https://pokedex.ignacioalbiol.es/)
@@ -32,6 +33,7 @@ Ultimate League - PHP Laravel project, MVC architecture.
 - Frameworks  
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -64,25 +66,3 @@ Ultimate League - PHP Laravel project, MVC architecture.
 - Others  
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-<!--
-### :bar_chart: Most Used Languages:
-
-![Nacho's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachoa88&theme=merko)
--->
-
-
-<!--
-**nachoa88/nachoa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
